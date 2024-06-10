@@ -1,8 +1,8 @@
 Feature: Evaluación de Estilos Anteriores
 
-  Como usuario habitual de la plataforma,
-  Quiero poder revisar y evaluar los estilos de peinado que he probado anteriormente
-  Para recordar mis preferencias y tomar decisiones futuras.
+  Como joven universitario habitual de la plataforma, 
+  quiero poder revisar y evaluar los estilos de peinado que he probado anteriormente
+  para recordar mis preferencias y tomar decisiones futuras.
 
   Scenario Outline: Evaluación de Estilos Anteriores
     Given que el usuario ha iniciado sesión en la plataforma y desea revisar sus estilos anteriores

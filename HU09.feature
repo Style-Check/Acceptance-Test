@@ -1,8 +1,8 @@
 Feature: Compartir Estilos en Redes Sociales
 
-  Como adolescente,
-  Quiero compartir los estilos que pruebo en la plataforma con mis amigos en redes sociales
-  Para obtener su opinión y aumentar mi confianza en el estilo elegido.
+  Como joven estudiante,
+  quiero compartir los estilos que pruebo en la plataforma con mis amigos en redes sociales 
+  para obtener su opinión y aumentar mi confianza en el estilo elegido.
 
   Scenario Outline: Compartir Estilos en Redes Sociales
     Given que el usuario ha probado un estilo y está satisfecho con cómo se ve

@@ -1,8 +1,8 @@
 Feature: Guardar Estilos Favoritos
 
-  Como usuario universitario,
-  Quiero poder guardar los estilos de peinados que más me gustan en mi perfil
-  Para poder revisitar mis opciones favoritas fácilmente.
+  Como joven universitario, 
+  quiero poder guardar los estilos de peinado y lentes que más me gustan en mi perfil 
+  para poder revisitar mis opciones favoritas fácilmente.
 
   Scenario Outline: Guardar Estilos Favoritos
     Given que el usuario ha probado diferentes estilos y encuentra uno o más que le gustan

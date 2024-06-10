@@ -1,8 +1,8 @@
 Feature: Visualización de Estilos Disponibles
 
-  Como usuario interesado en explorar diferentes estilos de peinado y cortes,
-  Quiero poder visualizar una variedad de opciones disponibles en la plataforma
-  Para obtener inspiración y tomar decisiones informadas.
+  Como joven universitario interesado en explorar diferentes estilos de peinado y cortes, 
+  quiero poder visualizar una variedad de opciones disponibles en la plataforma
+  para obtener inspiración y tomar decisiones informadas.
 
   Scenario Outline: Exploración de Estilos Disponibles
     Given que el usuario ha iniciado sesión en la plataforma

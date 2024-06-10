@@ -1,8 +1,8 @@
 Feature: Prueba Virtual de Estilos
 
-  Como un joven adulto explorando mi estilo,
-  Quiero probar virtualmente diferentes peinados en la plataforma
-  Para ver cómo me quedan antes de decidirme por un cambio en la vida real.
+  Como un joven adulto explorando mi estilo, 
+  quiero probar virtualmente diferentes peinados en la plataforma
+   para ver cómo me quedan antes de decidirme por un cambio en la vida real.
 
   Scenario Outline: Prueba Virtual de Estilos
     Given que el usuario ha iniciado sesión y está en la pantalla de prueba virtual

@@ -1,7 +1,6 @@
 Feature: Tutorial Interactivo de Escaneo Facial
-  Como usuario nuevo de la aplicación,
-  quiero tener acceso a un tutorial interactivo de escaneo facial 
-  para aprender cómo utilizar esta función correctamente, para poder aprovechar al máximo la aplicación desde el principio.
+  Como universitario  nuevo en la  aplicación, quiero tener acceso a un tutorial interactivo de escaneo facial
+  para poder aprovechar al máximo la aplicación desde el principio.
 
 
 Scenario Outline: Acceso al Tutorial Interactivo de Escaneo Facial

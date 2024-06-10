@@ -1,7 +1,7 @@
 Feature: Acceso a dispositivos moviles 
-Como usuario frecuente en la plataforma,
+Como Joven adulto, 
 Quiero poder acceder a la plataforma desde dispositivos móviles como teléfonos inteligentes y tabletas,
-Para brindarme comodidad y accesibilidad.
+ Para brindarle comodidad y accesibilidad.
 
 Scenario Outline: Funcionalidad total en dispositivos móviles
     Given que el estudiante universitario accede a la plataforma desde un dispositivo móvil

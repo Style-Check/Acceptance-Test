@@ -1,7 +1,7 @@
 Feature: Inicio de sesión
-  Como joven adulto, quiero poder  iniciar sesión  de manera exitosa en mi cuenta,
-  para poder tener ingresar a la plataforma.
-
+   Como joven adulto, 
+   quiero poder  iniciar sesión  de manera exitosa en mi cuenta, 
+   para poder tener ingresar a la plataforma.
 Scenario: Inicio de sesión exitoso
     Given que el usuario ha accedido a la pantalla de inicio de sesión
     When el usuario ingresa su nombre de usuario "juan.perez" y contraseña "Correcta123" 

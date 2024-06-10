@@ -1,7 +1,7 @@
 Feature: Evaluación de Opiniones de la Comunidad sobre Estilos Sugeridos como Comentarios y Calificaciones.
-Como usuario interesado en tomar decisiones informadas, 
-quiero poder evaluar las opiniones de la comunidad sobre los estilos sugeridos, mediante comentarios y calificaciones, 
-para ayudarme a seleccionar el mejor estilo para mí.
+    Como estudiante universitario  interesado en tomar decisiones informadas,
+    Quiero poder evaluar las opiniones de la comunidad sobre los estilos sugeridos, mediante comentarios y calificaciones, 
+    Para ayudarme a seleccionar el mejor estilo para mí.
 Scenario Outline: Evaluación de Opiniones de la Comunidad sobre Estilos
     Given Un usuario ha recibido recomendaciones de estilos de peinado.
     When Visualiza los estilos sugeridos en la aplicación.

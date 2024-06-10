@@ -1,5 +1,5 @@
 Feature:  Dejar Reseñas y Comentarios 
-    Como usuario frecuente en la plataforma,
+    Como Joven universitario 
     Quiero poder dejar reseñas y comentarios sobre los estilos de peinado y cortes que he probado,
     Para ayudar a otros usuarios en su decisión.
 
@@ -8,7 +8,8 @@ Scenario Outline: Facilidad para dejar reseñas y comentarios
     When accede a la opción de dejar una reseña o comentario
     Then podra escribir y enviar su opinión de manera clara y fácil sobre los estilos que ha probado en la plataforma
     And la aplicación le muestra una sección de reseñas y comentarios donde el usuario podrá visualizar comentarios y reseñas sobre el estilo seleccionado
-    And la aplicación guarda cada comentario y reseña de los usuarios en cada estilo, mostrándolos recopiladamente en una lista de manera ascendente desde los comentarios más populares 
+    And la aplicación guarda cada comentario y reseña de los usuarios en cada estilo, 
+    And mostrándolos recopiladamente en una lista de manera ascendente desde los comentarios más populares 
     And  los comentarios menos populares
 
   Examples:

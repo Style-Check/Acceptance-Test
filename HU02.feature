@@ -1,8 +1,7 @@
 Feature: Escaneo Completo del Rostro del Usuario
-
-  Como usuario preocupado en conocer el tipo de forma que tiene mi rostro,
-  Quiero escanear mi cara con todas sus facciones
-  Para que la plataforma registre la información y sea mucho más fácil saber las opciones que me favorecen.
+  Como joven universitario preocupado en conocer el tipo de forma que tiene mi rostro,
+  quiero escanear mi cara con todas sus facciones
+  para que la plataforma registre la información y sea mucho más fácil saber las opciones que me favorecen.
 
   Scenario Outline: Descubrimiento de la Forma del Rostro
     Given que el usuario ha iniciado sesión en la plataforma
@@ -13,7 +12,7 @@ Feature: Escaneo Completo del Rostro del Usuario
     And la aplicación procesa el escaneo completo y genera recomendaciones altamente precisas de estilos de peinado 
         y cortes que complementan el rostro de manera óptima
     And está la opción de aplicar filtros adicionales para refinar aún más las recomendaciones, como elegir estilos 
-         para ocasiones específicas o adaptados al estilo de vida de cada usuario
+        para ocasiones específicas o adaptados al estilo de vida de cada usuario
 
   Examples:
     | permiso_camara | detalles_rostro                                | recomendaciones                 | filtros_adicionales            |

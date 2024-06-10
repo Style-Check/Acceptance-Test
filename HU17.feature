@@ -1,7 +1,8 @@
 Feature: Visualización de Peinados para Decisiones Informadas
-    Como usuario preocupado por mi apariencia personal, 
+    Como Adulto preocupado por mi apariencia personal, 
     Quiero poder visualizar cómo me veré con diferentes estilos de peinados
     Para tomar decisiones informadas sobre mi look, aumentando mi confianza en mi apariencia.
+
 
 Scenario Outline: Considerando un cambio de imagen y quiere probar diferentes estilos de peinado antes de visitar a su estilista.
     Given Es un usuario interesado en cambiar su estilo de peinado.

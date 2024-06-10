@@ -1,9 +1,8 @@
 Feature: Registro de Usuario Nuevo
 
-  Como nuevo usuario de la aplicación Style Check,
-  Quiero registrarme en la plataforma para crear un perfil
-  para comenzar a utilizar todas las funcionalidades disponibles.
-
+  Como joven universitario, nuevo joven estudiante de la aplicación Style Check, 
+  quiero registrarme en la plataforma
+  para crear un perfil y comenzar a utilizar todas las funcionalidades disponibles.
   Scenario Outline: Registro exitoso de un nuevo usuario
     Given que el nuevo usuario está en el campo de inicio de la aplicación
     When complete todos los campos requeridos para el registro, incluyendo nombres completos, correo electrónico y contraseña

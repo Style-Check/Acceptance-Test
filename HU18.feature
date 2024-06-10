@@ -1,7 +1,7 @@
 Feature: Prueba Virtual de Painado para Ajuste Perfecto
-    Como usuario con dificultades para encontrar un peinado que se ajusten a la forma de mi rostro, 
-    Quiero poder probar virtualmente diferentes estilos de paindao 
-    Para identificar aquellos que mejor se adapten a mis características faciales, evitando así la perdida de tiempo y dinero
+    Como estudiante universitario con dificultades para encontrar un peinado que se ajusten a la forma de mi rostro, 
+    Quiero poder probar virtualmente diferentes estilos de peinado 
+    Para identificar aquellos que mejor se adapten a mis características faciales, evitando así la pérdida de tiempo y dinero
 
 Scenario Outline: Segura de qué estilo le queda mejor. Quiere probar virtualmente diferentes opciones antes de tomar una decisión.
     Given Es un usuario en busca de peinados.

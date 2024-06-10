@@ -1,5 +1,5 @@
 Feature: Opción de guardado de cortes favoritos
-    Como usuario  me gustaría tener la opción de fotos destacadas  
+    Como joven adulto  me gustaría tener la opción de fotos destacadas  
     quiero tener la facilidad de poder escoger rápido las opciones que me gustaron 
     para facilitar la búsqueda del usuario .
 

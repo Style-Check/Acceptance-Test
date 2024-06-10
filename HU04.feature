@@ -1,8 +1,8 @@
 Feature: Asesoramiento Personalizado de Estilos
 
-  Como usuario que busca un cambio de imagen personalizado,
-  Quiero recibir asesoramiento de un experto
-  Para saber sobre qué estilos de peinado y cortes se adaptan mejor a mi perfil facial y estilo personal.
+  Como joven universitario interesado en explorar diferentes estilos de peinado y cortes, 
+  quiero poder visualizar una variedad de opciones disponibles en la plataforma 
+  para obtener inspiración y tomar decisiones informadas.
 
   Scenario Outline: Consulta de Asesoramiento Personalizado
     Given que el usuario ha iniciado sesión en la plataforma y ha completado su perfil facial

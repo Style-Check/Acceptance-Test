@@ -1,7 +1,7 @@
 Feature: Configuración de Preferencias de Estilos y Filtros de Búsqueda Avanzados como Longitud, Color, etc.
- Como usuario que busca estilos específicos, 
- quiero configurar preferencias avanzadas como longitud, color y otros filtros de búsqueda, 
- para obtener recomendaciones más precisas y acordes a mis gustos personales.
+    Como joven estudiante que busca estilos específicos, 
+    Quiero configurar preferencias avanzadas como longitud, color y otros filtros de búsqueda, 
+    Para obtener recomendaciones más precisas y acordes a mis gustos personales.
 
 Scenario Outline: Configuración de Preferencias Avanzadas para Búsqueda de Estilos
     Given Un usuario quiere encontrar estilos de peinado que se ajusten a sus preferencias específicas.

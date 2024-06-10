@@ -1,5 +1,5 @@
 Feature: Acceso a Tutoriales y videos istructivos 
-Como usuario nuevo en el aplicativo,
+Como Joven Universitario, 
 Quiero tener acceso a tutoriales y videos instructivos sobre cómo peinar y mantener mi nuevo corte de cabello en casa,
 Para aprender a cuidar adecuadamente mi nuevo look.
 

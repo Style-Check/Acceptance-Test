@@ -1,7 +1,7 @@
 Feature: Integración con Cámaras Frontales para Escaneo Facial en Tiempo Real.
-Como usuario activo de la aplicación, 
-quiero recibir notificaciones sobre nuevas actualizaciones de estilos y funcionalidades 
-para estar al tanto de las últimas mejoras y opciones disponibles.
+Como joven adulto activo en la  aplicación,
+Quiero recibir notificaciones sobre nuevas actualizaciones de estilos y funcionalidades 
+Para estar al tanto de las últimas mejoras y opciones disponibles.
 
 Scenario Outline: Escaneo Facial en Tiempo Real con Cámaras Frontales
     Given Un usuario desea escanear su rostro para recibir recomendaciones de estilos de peinado.

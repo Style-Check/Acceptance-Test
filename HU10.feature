@@ -1,8 +1,7 @@
 Feature: Recomendaciones Personalizadas de Estilos
-  Como usuario frecuente de la plataforma, 
-  quiero recibir recomendaciones personalizadas de estilos basadasen mis interacciones anteriores 
- para descubrir nuevas opciones que se ajusten a mis preferencias.
-
+  Como joven universitario ,
+   quiero recibir recomendaciones personalizadas de estilos basadas en mis interacciones anteriores
+    para descubrir nuevas opciones que se ajusten a mis preferencias.
 
 Scenario Outline: Recepción de Recomendaciones Personalizadas de Estilos
     Given Un usuario ha utilizado la plataforma varias veces e interactuado con diferentes estilos.
